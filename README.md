@@ -15,7 +15,7 @@ IBM Watson Discovery Service helps developers quickly create cognitive applicati
 * You can leverage Watson Discovery   SDKs, web based pooling and WDS API to bring cognitive insights to your custom applications 
 * Can be used to address many different use cases from customer insights to question and answer scenarios.
 
-![Image](C:\Users\hashim irfan\Desktop\Sites\SPS-156-Customer-Product-Review-analysis-using-Watson-Discovery\Image\download (3).png)
+![Image](https://raw.githubusercontent.com/SmartPracticeschool/SPS-156-Customer-Product-Review-analysis-using-Watson-Discovery/master/Image/download%20(3).png)
 
 ### Workflow
 
